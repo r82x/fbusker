@@ -1,4 +1,4 @@
-from fbusker import *
+from _fbusker import *
 
 def main():
     """
